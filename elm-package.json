@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "Track global mouse clicks and movements, helpful for dragging.",
-    "repository": "http://github.com/elm-lang/mouse.git",
+    "summary": "Track global mouse clicks and movements, and some.",
+    "repository": "http://github.com/kcsongor/mouse-extra.git",
     "license": "BSD3",
     "source-directories": [
         "src"
